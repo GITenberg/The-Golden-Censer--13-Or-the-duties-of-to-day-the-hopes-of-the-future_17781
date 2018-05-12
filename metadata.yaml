@@ -1,0 +1,27 @@
+_repo: The-Golden-Censer--13-Or-the-duties-of-to-day-the-hopes-of-the-future_17781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGovern, John
+    alias: M'Govern, John
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '7620'
+    url: http://www.gutenberg.org/2009/agents/7620
+description: ''
+gutenberg_issued: '2006-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Conduct of life'
+- !lcc 'BJ'
+title: "The Golden Censer\r\nOr, the duties of to-day, the hopes of the future"
+url: http://www.gutenberg.org/ebooks/17781
